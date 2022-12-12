@@ -1,2 +1,2 @@
-# Calculator2.0
-Second calculator
+In the previous version history div was on side in this the history div pops on the calc body itself....
+
